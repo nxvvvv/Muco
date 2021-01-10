@@ -1,0 +1,19 @@
+{
+  "name": "Muco",
+  "version": "1.0.0",
+  "description": "A Music generating particle system.",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/Muco.git"
+  },
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/Muco/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/Muco#readme"
+}
